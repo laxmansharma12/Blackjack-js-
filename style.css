@@ -1,0 +1,101 @@
+body{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("image1.jpg");
+  background-size: cover
+    /* font-weight: bold; */
+}
+button{
+    border-radius: 2px;
+    background-color: yellow;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: larger;
+    font-weight: bold;
+    color: green;
+    border: none;
+}
+.new-btn{
+    margin-top: 5px;
+}
+h1{
+    color: yellow;
+     font-size: 50px;
+}
+h2{
+    color: white;
+}
+#message-el{
+    font-style: italic;
+}
+.img-el{
+    position: absolute;
+    float:left ;
+}
+
+#img1{
+    visibility: hidden;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#img2{
+    visibility: hidden;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+#img3{
+    visibility: hidden;
+    margin-left: 110px;
+    margin-top: 110px;
+}
+#img4{
+    visibility: hidden;
+    margin-left: 140px;
+    margin-top: 140px;
+}
+#img5{
+    visibility: hidden;
+    margin-left: 170px;
+    margin-top: 170px;
+}
+#img6{
+    visibility: hidden;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+#img7{
+    visibility: hidden;
+    margin-left: 230px;
+    margin-top: 230px;
+}
+#img8{
+    visibility: hidden;
+    margin-left: 260px;
+    margin-top: 260px;
+}
+#img9{
+    visibility: hidden;
+    margin-left: 290px;
+    margin-top: 290px;
+}
+#img10{
+    visibility: hidden;
+    margin-left: 320px;
+    margin-top: 320px;
+}
+#img11{
+    visibility: hidden;
+    margin-left: 350px;
+    margin-top: 350px;
+}
+#img12{
+    visibility: hidden;
+    margin-left: 380px;
+    margin-top: 380px;
+}
+#img13{
+    visibility: hidden;
+    margin-left: 410px;
+    margin-top: 410px;
+}
